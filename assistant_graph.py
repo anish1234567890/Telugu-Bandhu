@@ -1,4 +1,3 @@
-import os
 import logging
 from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage
