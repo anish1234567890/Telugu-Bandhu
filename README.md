@@ -50,7 +50,8 @@ Clone the repository and install dependencies:
 
 ```bash
 # Install Python libraries
-pip install langchain-groq groq edge-tts sounddevice scipy numpy langgraph python-dotenv langchain-community
+pip install langchain-groq groq edge-tts sounddevice scipy numpy langgraph python-dotenv langchain-communitystop
+
 
 ## Setup
 1. Install dependencies: `pip install .`
