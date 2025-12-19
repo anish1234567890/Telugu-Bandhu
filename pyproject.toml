@@ -1,0 +1,13 @@
+[project]
+name = "telugu-voice-agent"
+version = "0.1.0"
+dependencies = [
+    "langchain-groq",
+    "groq",
+    "edge-tts",
+    "sounddevice",
+    "scipy",
+    "langgraph",
+    "python-dotenv",
+    "langchain-community"
+]
