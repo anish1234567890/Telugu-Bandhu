@@ -1,1 +1,6 @@
 .env
+
+# Python compilation
+__pycache__/
+*.py[cod]
+*$py.class

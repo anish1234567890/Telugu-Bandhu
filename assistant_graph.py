@@ -20,7 +20,7 @@ tools = [check_eligibility, get_scheme_details]
 
 # 2. Setup Model (Groq - Free & Fast)
 llm = ChatGroq(
-    model="llama-3.1-70b-versatile", 
+    model="llama-3.3-70b-versatile",
     temperature=0
 )
 llm_with_tools = llm.bind_tools(tools)
