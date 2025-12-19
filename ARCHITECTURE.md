@@ -1,4 +1,3 @@
-````markdown
 # Architecture & Design Document: Telangana Bandhu Agent
 
 ## 1. System Overview
@@ -37,7 +36,7 @@ graph TD
         Tools -->|Data| Planner
         Generator -->|Telugu Text| TTS
     end
-````
+```
 
 ---
 
